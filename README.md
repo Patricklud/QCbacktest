@@ -1,1 +1,1 @@
-# Very fast way to lose money
+A collection of backtests for various strategies using QuantConnect
